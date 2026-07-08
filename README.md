@@ -8,6 +8,6 @@ https://www.coze.cn/s/KLY-Ch_iOkk/](https://www.coze.cn/s/oZOz_18HBiU/
 
 ## 仓库文件说明
 1. report.md：完整版AI智能体调研报告
-2. 01_五维综合评分.csv / 02_核心指标明细.csv：自制原始测评打分数据表
-3. Al agent分析可视化代码以及图片：matplotlib绘图源码 + 雷达图、柱状图...结果
+2. 01_五维综合评分.csv / 02_核心指标明细.csv：智能体检索收集原始测评打分数据表
+3. Al agent分析可视化代码以及图片：python绘图源码 + 雷达图、柱状图...结果
 4. 扣子部分Prompt与交互展示.pdf：智能体工作流、交互演示截图与提示词设计
